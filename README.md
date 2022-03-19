@@ -6,3 +6,6 @@ In a real world each data provider will have its own structure, so we will need 
 that our system can understand.
 
 After we obtain the data from the external sources we can calculate the stats that we need.
+
+
+to run it in Node just execute "node app"
