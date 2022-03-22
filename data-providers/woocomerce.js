@@ -1,5 +1,4 @@
 const {Woocommerce} = require('../ecommercesData');
-const { Client } = require('../model/client');
 const { collect_data } = require('./collect_data');
 
 function getWoocomerceAmount(record){
